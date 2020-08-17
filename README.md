@@ -1,5 +1,5 @@
 # Algorihm
-This is a collection of my solving algorithm problems.
+This is a collection of me solving algorithm problems.
 
 Credit:
 1. Udacity: Intro to Data Structures and Algorithms by Grow with Google
